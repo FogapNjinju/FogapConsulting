@@ -16,6 +16,7 @@ This is a static website for Fogap Consulting Ltd, built as a polished marketing
 - `assets/css/styles.css` — core styling for the site
 - `assets/js/script.js` — mobile navigation toggle script
 - `assets/clinical-lab.jpg` — locally hosted homepage image
+- `robots.txt` and `sitemap.xml` — search crawler guidance and public page URLs
 
 ## Usage
 
